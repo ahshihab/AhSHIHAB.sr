@@ -1,1 +1,4 @@
-[# AhSHIHAB.sr](https://github.com/ahshihab/AhSHIHAB.sr/blob/main/mysr.m3u)https://github.com/ahshihab/AhSHIHAB.sr/blob/main/mysr.m3u
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://upload.https://en.wikipedia.org/wiki/Bangladesh?action=edit#/media/File:Flag_of_Bangladesh.svg.png” group-title=”Bangla”, AH
+http://100.64.64.11/Somoy_TV_HD/tracks-v1a1/mono.m3u8
